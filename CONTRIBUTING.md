@@ -17,9 +17,7 @@ If you've added code that should be tested, add tests.
 If you've changed APIs, update the documentation.
 Ensure the test suite passes.
 Make sure your code lints.
-Issue that pull request!
-Any contributions you make will be under the MIT Software License
-In short, when you submit code changes, your submissions are understood to be under the same MIT License that covers the project. Feel free to contact the maintainers if that's a concern.
+Issue that pull request.
 
 Report bugs using Github's issues
 We use GitHub issues to track public bugs. Report a bug by opening a new issue; it's that easy!
